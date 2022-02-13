@@ -626,8 +626,10 @@ Publish the website in the given URL.
 ## OUTPUT:
 ![](out1.PNG)
 
-![](Screenshot (106).png)
-![](Screenshot (107).png)
+![](ss.PNG)
+
+![](ss1.PNG)
+
 
 
 
