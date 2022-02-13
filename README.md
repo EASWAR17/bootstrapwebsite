@@ -626,11 +626,10 @@ Publish the website in the given URL.
 ## OUTPUT:
 ![](out1.PNG)
 
-![](ss.PNG)
 
-![](ss1.PNG)
+![Screenshot (106)](https://user-images.githubusercontent.com/94154683/153759163-bc534d64-de42-4d81-bfe8-03027d25039a.png)
 
-
+![Screenshot (107)](https://user-images.githubusercontent.com/94154683/153759169-b2a808bc-42e1-40e0-b928-4cd113a7f740.png)
 
 
 ## Result:
